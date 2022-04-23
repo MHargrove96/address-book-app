@@ -1,0 +1,22 @@
+.ListItem{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ListItemText{
+    font-size: large;
+
+}
+
+#ThumbNail{
+    height: 200px;
+    width: 200px;
+    padding: 0px 25px;
+}
+ 
+#ListItemName{
+    text-align: center;
+
+}
